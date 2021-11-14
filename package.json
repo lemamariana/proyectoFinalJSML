@@ -1,0 +1,23 @@
+{
+  "name": "proyectofinaljsml",
+  "version": "1.0.0",
+  "description": "<h1 align=\"center\">Hi 👋, I'm Mariana</h1> <h3 align=\"center\">A passionate frontend developer from Uruguay</h3>",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lemamariana/proyectoFinalJSML.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/lemamariana/proyectoFinalJSML/issues"
+  },
+  "homepage": "https://github.com/lemamariana/proyectoFinalJSML#readme",
+  "devDependencies": {
+    "node-sass": "^6.0.1",
+    "nodemon": "^2.0.15"
+  }
+}
