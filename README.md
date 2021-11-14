@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Mariana</h1>
 <h3 align="center">A passionate frontend developer from Uruguay</h3>
 
-- 🔭 I’m currently working on [my first project](https://reposteriavictoriaortiz.000webhostapp.com/)
+- 🔭 I’m currently working on [my first React JS proyect](https://github.com/lemamariana/myapp)
 
-- 🌱 I’m currently learning **JS**
+- 🌱 I’m currently learning **React JS**
 
-- 💬 Ask me about **HTML, CSS, SCSS, Bootstrap, Git**
+- 💬 Ask me about **HTML, CSS, SCSS, Bootstrap, Git, JS**
 
 - 📫 How to reach me **mlema00@gmail.com**
 
